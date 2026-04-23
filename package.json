@@ -1,0 +1,17 @@
+{
+  "name": "rodrigoasouza-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site pessoal — Rodrigo Souza (AI Solutions Architect & Tech Lead)",
+  "scripts": {
+    "start": "serve . -l 3000 --no-clipboard",
+    "dev": "serve . -l 3000 --no-clipboard",
+    "dev:open": "serve . -l 3000 --no-clipboard & start http://localhost:3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
