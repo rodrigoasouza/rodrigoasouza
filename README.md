@@ -1,11 +1,12 @@
-Profissional com 20 anos de experiência em engenharia de software e arquitetura de soluções. Atuação no ciclo de vida completo do software: levantamento de requisitos, desenho da arquitetura, implementação, implantação e sustentação em produção. Possui MBA em Arquitetura de Soluções pela FIAP e nível de inglês profissional pleno.
+Profissional com 20 anos de experiência em engenharia de software e arquitetura de soluções end-to-end. Atuação no ciclo de vida completo: levantamento de requisitos, desenho através de System Design Documents (SDD), implementação orientada a Clean Architecture e DDD, e sustentação em produção. Possui MBA em Arquitetura de Soluções pela FIAP e nível de inglês profissional pleno.
 
-A trajetória técnica abrange desde o suporte e desenvolvimento em tecnologias consolidadas (COBOL, Java, .NET) até a liderança e arquitetura de soluções de ponta focadas em Inteligência Artificial, Visão Computacional e MLOps.
+A trajetória técnica abrange desde tecnologias consolidadas (COBOL, Java, C#/.NET, Node.js) até a liderança de soluções de ponta focadas em Inteligência Artificial, orquestração de múltiplos agentes (LangChain), Visão Computacional e desenvolvimento assistido por IA (AI Coding com Claude Code e Antigravity).
 
 ## Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/YOLO-6E3FFF?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/LangChain-10B981?style=for-the-badge" alt="LangChain" />
